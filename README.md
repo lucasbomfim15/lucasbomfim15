@@ -12,7 +12,7 @@ Estou em constante aprendizado, buscando evoluir como desenvolvedor e compartilh
 ---
 
 <div style="margin-bottom:10px; display: flex; justify-content: center; align-items: center; gap: 20px;">
-   <img height="300" src="https://art.pixilart.com/sr2a11ca230ebaws3.png" alt="Imagem"  min-width="300px" max-width="300px" width="400px" align="right" alt="Computador iuriCode" />
+   <img height="300" src="https://art.pixilart.com/sr2a11ca230ebaws3.png" alt="Imagem"  min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode" />
   <img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbomfim15&layout=donut&show_icons=true&theme=react" alt="Top Langs" />
   
 </div>
