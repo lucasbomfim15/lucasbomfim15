@@ -4,9 +4,10 @@
 
 ---
 
-💻 Olá! Sou **Lucas Bomfim**, um desenvolvedor apaixonado por tecnologia e inovação!
-Desde cedo, sempre fui fascinado pelo mundo da programação e pelo poder de transformar ideias em soluções reais. Gosto de explorar novas tecnologias, enfrentar desafios e criar aplicações que fazem a diferença.
-Estou em constante aprendizado, buscando evoluir como desenvolvedor e compartilhando conhecimento para crescer junto com a comunidade tech. 🚀
+💻 Olá! Sou **Lucas Bomfim**, um estudante de Ciência da Computação apaixonado por tecnologia e inovação!
+Desde cedo, sempre fui fascinado pelo universo da tecnologia e pelo impacto que ela pode causar no mundo.
+Adoro aprender coisas novas, explorar ferramentas e linguagens, além de encarar desafios que me fazem evoluir como desenvolvedor.
+Estou sempre em busca de conhecimento e acredito no poder da colaboração para crescer junto com a comunidade tech. 🚀
 
 
 ---
