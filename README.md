@@ -42,6 +42,7 @@ Estou sempre em busca de conhecimento e acredito no poder da colaboração para 
 
 
 
+
 ---
 
 ## My Skills
