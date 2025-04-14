@@ -38,7 +38,8 @@ Estou sempre em busca de conhecimento e acredito no poder da colaboração para 
 
 ---
 
-![Snake Animation](https://github.com/luucasdinoo/luucasdinoo/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/lucasbomfim15/lucasbomfim15/blob/output/github-contribution-grid-snake.svg)
+
 
 
 ---
